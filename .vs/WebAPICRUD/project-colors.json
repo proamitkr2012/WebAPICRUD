@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06fc9d13-85f6-40db-b219-2a1ec2f75896": {
+      "ProjectGuid": "06fc9d13-85f6-40db-b219-2a1ec2f75896",
+      "DisplayName": "WebApp",
+      "ColorIndex": 0
+    },
+    "9ff0c289-8c19-4548-a253-d52e2255d35e": {
+      "ProjectGuid": "9ff0c289-8c19-4548-a253-d52e2255d35e",
+      "DisplayName": "WebAPIApp6AM",
+      "ColorIndex": 1
+    },
+    "aec8dec5-25c6-4387-97ca-72baa9793529": {
+      "ProjectGuid": "aec8dec5-25c6-4387-97ca-72baa9793529",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
